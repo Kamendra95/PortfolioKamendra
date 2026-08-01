@@ -124,7 +124,7 @@ window.addEventListener('scroll', () => {
 
 // EmailJS init
 (function(){
-    emailjs.init("O7BUZSC_lc_tGKECY"); // यहाँ अपना Public Key डालो
+    emailjs.init("_uO1lWefEaRMp9N2v"); // यहाँ अपना Public Key डालो
 })();
 
 // Form submit
